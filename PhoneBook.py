@@ -1,3 +1,6 @@
+# Software Name: PhoneBook
+# Autrhor: Bocaletto Luca
+# Web Site: https://www.elektronoide.it
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QPushButton, QTableWidget, QTableWidgetItem, QLineEdit, QMessageBox, QHeaderView, QLabel, QDialog
 from PyQt5 import QtCore
