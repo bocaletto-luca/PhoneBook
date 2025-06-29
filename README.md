@@ -49,3 +49,11 @@ This project is distributed under the GPLv3 license. Please refer to the LICENSE
 ---
 
 We hope this application proves to be useful! If you have any questions or encounter any issues, feel free to contact the author. Enjoy managing your phonebook!
+
+---
+
+**Maintainer Update**
+
+All legacy projects from the old `@Elektronoide` GitHub account are now officially maintained by **@bocaletto-luca**. Please direct any issues, pull requests, and stars to **@bocaletto-luca** for all future updates.
+
+---
